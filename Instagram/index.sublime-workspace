@@ -1,0 +1,432 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"ba",
+				"background-image\tproperty"
+			],
+			[
+				"ma",
+				"margin-top\tproperty"
+			],
+			[
+				"bac",
+				"background-color\tproperty"
+			],
+			[
+				"bor",
+				"border-radius\tproperty"
+			],
+			[
+				"sa",
+				"space-between\tjustify-content"
+			],
+			[
+				"fle",
+				"flex-direction\tproperty"
+			],
+			[
+				"ali",
+				"align-items\tproperty"
+			],
+			[
+				"fon",
+				"font-size\tproperty"
+			],
+			[
+				"fo",
+				"font-family\tproperty"
+			],
+			[
+				"box",
+				"box-sizing\tproperty"
+			],
+			[
+				"di",
+				"div\tTag"
+			],
+			[
+				"al",
+				"alt\tAttr"
+			],
+			[
+				"i",
+				"instagram-phone"
+			],
+			[
+				"li",
+				"link\tTag"
+			],
+			[
+				"met",
+				"meta\tTag"
+			],
+			[
+				"e",
+				"elseif\telseif …"
+			],
+			[
+				"fl",
+				"flag_p5"
+			],
+			[
+				"var",
+				"var_dump"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 1190,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "style.css",
+			"settings":
+			{
+				"buffer_size": 2136,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/Luna/Desktop/Instagram",
+		"/C/Users/Luna/Desktop/Instagram/img"
+	],
+	"file_history":
+	[
+		"/C/Users/Luna/AppData/Local/Temp/scp17357/var/www/html/AdminLTE/planilha/perfil_comportamental.php",
+		"/C/Users/Luna/Desktop/Instagram/style.css",
+		"/C/Users/Luna/AppData/Local/Temp/scp52126/var/www/html/AdminLTE/includes/conexao.php",
+		"/C/Users/Luna/AppData/Local/Temp/scp10950/var/www/html/AdminLTE/validar.php",
+		"/C/Users/Luna/AppData/Local/Temp/scp51234/var/www/html/AdminLTE/planilha/logica.php",
+		"/C/Users/Luna/Desktop/Instagram/index.sublime-project",
+		"/C/Users/Luna/AppData/Local/Temp/scp20868/var/www/html/AdminLTE/planilha/logica.php",
+		"/C/Users/Luna/Desktop/toma.php",
+		"/C/Users/Luna/AppData/Local/Temp/scp23505/var/www/html/AdminLTE/planilha/consultar_logica.php",
+		"/C/Users/Luna/AppData/Local/Temp/scp42258/var/www/html/AdminLTE/planilha/atender_cliente.php",
+		"/C/Users/Luna/AppData/Local/Temp/scp50119/var/www/html/AdminLTE/planilha/atender_cliente.php",
+		"/C/Users/Luna/AppData/Local/Temp/scp37156/var/www/html/AdminLTE/planilha/consultar_atender_cliente.php",
+		"/C/Users/Luna/AppData/Local/Temp/scp48154/var/www/html/AdminLTE/planilha/relatorio.php",
+		"/C/Users/Luna/AppData/Local/Temp/scp48890/var/www/html/AdminLTE/planilha/resultado.php",
+		"/C/Users/Luna/AppData/Local/Temp/scp38591/var/www/html/AdminLTE/planilha/teste_resultado.php",
+		"/C/Users/Luna/AppData/Local/Temp/scp38149/var/www/html/AdminLTE/planilha/teste_relatorio.php",
+		"/C/Users/Luna/AppData/Local/Temp/scp29739/var/www/html/AdminLTE/planilha/perfil_comportamental.php",
+		"/C/Users/Luna/AppData/Local/Temp/scp44819/var/www/html/AdminLTE/acesso/cadastrar_perfil.php",
+		"/C/Users/Luna/AppData/Local/Temp/scp28833/var/www/html/AdminLTE/planilha/ingles1.php",
+		"/C/Users/Luna/AppData/Local/Temp/scp27110/var/www/html/AdminLTE/planilha/relatorio.php",
+		"/C/Users/Luna/AppData/Local/Temp/scp26687/var/www/html/AdminLTE/planilha/comportamental.php",
+		"/C/Users/Luna/AppData/Local/Temp/scp09147/var/www/html/AdminLTE/acesso/cadastrar_usuario.php",
+		"/C/Users/Luna/AppData/Local/Temp/scp37326/var/www/html/AdminLTE/planilha/comportamental.php",
+		"/C/Users/Luna/AppData/Local/Temp/scp57213/var/www/html/AdminLTE/acesso/cadastrar_perfil.php",
+		"/C/Users/Luna/AppData/Local/Temp/scp52400/var/www/html/AdminLTE/acesso/consultar_perfil.php",
+		"/E/easyapplication_1_1_desenv/acesso/consultar_perfil.php",
+		"/C/Users/Luna/AppData/Local/Temp/scp30800/var/www/html/AdminLTE/planilha/comportamental.php",
+		"/C/Users/Luna/AppData/Local/Temp/scp52359/var/www/html/AdminLTE/planilha/relatorio.php",
+		"/C/Users/Luna/AppData/Local/Temp/scp55913/var/www/html/AdminLTE/planilha/resultado.php",
+		"/E/easyapplication_1_1_desenv/ocorrencia/consultar_tipo_acesso.php",
+		"/C/Users/Luna/AppData/Local/Temp/scp44716/var/www/html/AdminLTE/planilha/relatorio.php",
+		"/C/Users/Luna/AppData/Local/Temp/scp01375/var/www/html/AdminLTE/planilha/resultado.php",
+		"/C/Users/Luna/AppData/Local/Temp/scp01031/var/www/html/AdminLTE/planilha/relatorio.php",
+		"/C/Users/Luna/AppData/Local/Temp/scp22333/var/www/html/AdminLTE/planilha/teste_relatorio.php",
+		"/C/Users/Luna/AppData/Local/Temp/scp31295/var/www/html/AdminLTE/planilha/teste_resultado.php",
+		"/E/easyapplication_1_1_desenv/ocorrencia/cadastrar_tipo_acesso.php",
+		"/C/Users/Luna/AppData/Local/Temp/scp49791/var/www/html/AdminLTE/includes/menu.php",
+		"/C/Users/Luna/AppData/Local/Temp/scp30533/var/www/html/AdminLTE/planilha/relatorio.php",
+		"/C/Users/Luna/AppData/Local/Temp/scp47872/var/www/html/AdminLTE/index.php",
+		"/C/Users/Luna/AppData/Local/Temp/scp51464/var/www/html/AdminLTE/reuniao/cadastrar_local_reuniao.php",
+		"/C/Users/Luna/AppData/Local/Temp/scp41699/var/www/html/AdminLTE/reuniao/consultar_reuniao.php",
+		"/E/easyapplication_1_1_desenv/reuniao/cadastrar_ata_reuniao.php",
+		"/C/Users/Luna/AppData/Local/Temp/scp25567/var/www/html/AdminLTE/planilha/relatorio.php",
+		"/C/Users/Luna/AppData/Local/Temp/scp24073/var/www/html/AdminLTE/includes/head.php",
+		"/C/Users/Luna/AppData/Local/Temp/scp38506/var/www/html/AdminLTE/includes/conexao.php",
+		"/C/Users/Luna/AppData/Local/Temp/scp30798/var/www/html/AdminLTE/dist/img/logo.png",
+		"/C/Users/Luna/AppData/Local/Temp/scp41716/var/www/html/AdminLTE/index.php",
+		"/C/Users/Luna/AppData/Local/Temp/scp25964/var/www/html/AdminLTE/includes/funcoes_head.php",
+		"/C/Users/Luna/AppData/Local/Temp/scp30550/var/www/html/AdminLTE/dist/img/logo.jpeg",
+		"/C/Users/Luna/AppData/Local/Temp/scp29122/var/www/html/AdminLTE/dist/img/AdminLTELogo.jpeg",
+		"/C/Users/Luna/AppData/Local/Temp/scp24280/var/www/html/AdminLTE/includes/menu.php",
+		"/E/easyapplication_1_1_desenv/reuniao/cadastrar_local_reuniao.php",
+		"/C/Users/Luna/AppData/Local/Temp/scp31518/var/www/html/AdminLTE/index.php",
+		"/C/Users/Luna/AppData/Local/Temp/scp25730/var/www/html/AdminLTE/includes/conexao.php",
+		"/C/Users/Luna/AppData/Local/Temp/scp48938/var/www/html/AdminLTE/validar.php",
+		"/C/Users/Luna/AppData/Local/Temp/scp33410/home/www/html/1telecom/includes/conexao.php",
+		"/C/Users/Luna/AppData/Local/Temp/scp33236/home/www/html/1telecom/index.php",
+		"/C/Users/Luna/AppData/Local/Temp/scp28380/home/www/html/easyapplication/includes/conexao.php",
+		"/C/Users/Luna/AppData/Local/Temp/scp19983/home/www/html/easyapplication/index.php",
+		"/C/Users/Luna/AppData/Local/Temp/scp23153/var/www/html/AdminLTE/portal/includes/conexao.php",
+		"/C/Users/Luna/AppData/Local/Temp/scp31987/var/www/html/AdminLTE/portal/index.php",
+		"/C/Users/Luna/AppData/Local/Temp/scp28963/var/www/html/AdminLTE/portal/solicitar_servico.php",
+		"/E/teste/index.php",
+		"/E/teste/plugins/datatable_server_side/scripts/server_processing.php",
+		"/E/teste/portal/plugins/datatable_server_side/scripts/server_processing.php",
+		"/C/Users/Luna/AppData/Local/Temp/scp23207/var/www/html/AdminLTE/portal/plugins/datatable_server_side/scripts/server_processing.php",
+		"/E/teste/portal/index.php",
+		"/E/teste/portal/imagens_cliente_meus_dados/1.jpg",
+		"/E/teste/versionador.php",
+		"/C/Users/Luna/AppData/Local/Temp/scp54223/var/www/html/AdminLTE/includes/conexao.php",
+		"/C/Users/Luna/Desktop/uber/lib/telas/PainelMotorista.dart",
+		"/C/Users/Luna/Desktop/uber/lib/telas/Corrida.dart",
+		"/C/Users/Luna/Desktop/uber/lib/util/UsuarioFirebase.dart",
+		"/C/Users/Luna/AppData/Local/Temp/Rar$DIa16544.16058/Corrida.dart",
+		"/C/Users/Luna/Desktop/uber/lib/model/Usuario.dart",
+		"/C/Users/Luna/AppData/Local/Temp/Rar$DIa16408.45839/solicitacao.dart",
+		"/C/Users/Luna/AppData/Local/Temp/Rar$DIa12436.17919/Usuario.dart",
+		"/C/Users/Luna/AppData/Local/Temp/Rar$DIa14376.16054/Usuario.dart",
+		"/C/Users/Luna/AppData/Local/Temp/Rar$DIa6336.13798/Usuario.dart",
+		"/C/Users/Luna/AppData/Local/Temp/Rar$DIa11412.12198/Usuario.dart",
+		"/C/Users/Luna/AppData/Local/Temp/Rar$DIa17260.7818/Usuario.dart",
+		"/C/Users/Luna/AppData/Local/Temp/Rar$DIa15524.4794/Usuario.dart",
+		"/C/Users/Luna/AppData/Local/Temp/Rar$DIa3680.2369/Usuario.dart",
+		"/C/Users/Luna/AppData/Local/Temp/Rar$DIa16340.687/Usuario.dart",
+		"/C/Users/Luna/AppData/Local/Temp/Rar$DIa15752.49151/Usuario.dart",
+		"/C/Users/Luna/AppData/Local/Temp/Rar$DIa2008.46748/Usuario.dart",
+		"/C/Users/Luna/AppData/Local/Temp/Rar$DIa13972.42370/Usuario.dart",
+		"/C/Users/Luna/AppData/Local/Temp/Rar$DIa13064.35591/Usuario.dart",
+		"/C/Users/Luna/AppData/Local/Temp/Rar$DIa13064.34917/UsuarioFirebase.dart",
+		"/C/Users/Luna/AppData/Local/Temp/Rar$DIa4444.40134/Corrida.dart",
+		"/C/Users/Luna/AppData/Local/Temp/Rar$DIa13276.46104/Corrida.dart",
+		"/C/Users/Luna/AppData/Local/Temp/Rar$DIa13276.37058/PainelMotorista.dart",
+		"/C/Users/Luna/AppData/Local/Temp/Rar$DIa13276.15473/Requisicao.dart",
+		"/C/Users/Luna/AppData/Local/Temp/Rar$DIa13276.14355/Usuario.dart",
+		"/C/Users/Luna/AppData/Local/Temp/Rar$DIa13276.36684/PainelPassageiro.dart",
+		"/C/Users/Luna/AppData/Local/Temp/Rar$DIa13276.29114/UsuarioFirebase.dart",
+		"/C/Users/Luna/AppData/Local/Temp/Rar$DIa13276.15126/Destino.dart",
+		"/C/Users/Luna/AppData/Local/Temp/scp56625/home/www/html/easyapplication/operacional/acomp_registro_atendimento.php",
+		"/C/Users/Luna/Desktop/email",
+		"/C/Users/Luna/AppData/Local/Temp/scp50786/home/www/html/easyapplication/acesso/cadastrar_usuario.php",
+		"/C/Users/Luna/AppData/Local/Temp/scp03801/home/www/html/easyapplication/operacional/registro_atendimento.php",
+		"/C/Users/Luna/AppData/Local/Temp/scp11922/home/www/html/easyapplication/operacional/registro_atendimento.php",
+		"/C/Users/Luna/AppData/Local/Temp/scp15407/home/www/html/easyapplication/operacional/registro_atendimento2.php",
+		"/C/Users/Luna/AppData/Local/Temp/Rar$DIa3312.48649/main.dart",
+		"/C/Users/Luna/AppData/Local/Temp/Rar$DIa3312.48273/circular_image.dart",
+		"/C/Users/Luna/AppData/Local/Temp/Rar$DIa3632.4357/custom_drawer.dart",
+		"/C/Users/Luna/AppData/Local/Temp/Rar$DIa3632.27606/user_model.dart",
+		"/C/Users/Luna/AppData/Local/Temp/Rar$DIa3312.48848/zoom_scaffold.dart",
+		"/C/Users/Luna/AppData/Local/Temp/Rar$DIa3312.48762/menu_page.dart",
+		"/C/Users/Luna/Desktop/rhpocket_roni (1)/lib/main.dart",
+		"/C/Users/Luna/Desktop/rhpocket_roni (1)/lib/prelogin.dart",
+		"/C/Users/Luna/Desktop/uber/lib/telas/Home.dart",
+		"/C/Users/Luna/Desktop/BBBot-master/script.py"
+	],
+	"find":
+	{
+		"height": 22.0
+	},
+	"find_in_files":
+	{
+		"height": 101.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"download",
+			"AVAL",
+			"avali"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1190,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1080,
+								1080
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "style.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2136,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1676,
+								1676
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 1287.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 22.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 40.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 132.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
